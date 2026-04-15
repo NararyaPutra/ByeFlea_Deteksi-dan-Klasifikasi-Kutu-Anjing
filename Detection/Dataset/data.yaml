@@ -1,0 +1,10 @@
+path: D:/Klasifikasi Kutu/Detection/Dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+names:
+  0: Dermacentor_variabilis
+  1: Ixodes_scapularis
+  2: Rhipicephalus_sanguineus
