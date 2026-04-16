@@ -1,4 +1,4 @@
-path: D:/Klasifikasi Kutu/Detection/Dataset
+path: D:\Agung (Gungwah)\ByeFlea_Deteksi-dan-Klasifikasi-Kutu-Anjing\Detection\Dataset
 train: images/train
 val: images/val
 test: images/test
